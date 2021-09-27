@@ -1,0 +1,7 @@
+Ans 1 > Use a List. Choose a random employee by picking a number between 0 and size()-1.
+
+Ans 2 > Use a Set. Collections that implement this interface don't allow the same element to be entered more than once.
+
+Ans 3 > Use a Map, where the keys are first names, and each value is a count of the number of employees with that first name.
+
+Ans 4 > Use a Queue. Invoke add() to add employees to the waiting list, and remove() to remove them.

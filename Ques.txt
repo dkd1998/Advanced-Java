@@ -1,0 +1,17 @@
+1.Implement your  own abstract  classes and  interfaces
+
+2.Implement your own encapsulating classes
+
+3.Create a thread named fetch Data using thread extend method Fetch data should  implement sleep method  with 5000ms timeCreate a thread named  processData  using  runnable  
+interface.Make sure processData  starts its execution only after fetchData thread has  completed its execution with the timeout of 10000ms
+
+4.Take  the Find Dups example  and modify it to use  a SortedSet  instead of a Set. Specify a Comparator so that case  is ignored when sorting and identifying set elements.
+
+5.Write a method that takes  a List<String> and applies String.trim to each element.
+
+6.Consider the four core interfaces, Set, List, Queue,  and Map. 
+For each of the following four assignments, specify which of the four core interfaces is best-suited,  and explain how to use  it to implement the assignment.
+    1.Whimsical Toys Inc (WTI) needs to record the names  of all its employees.  Every  month, an employee  will be chosen at random from these  records to receive  a free toy.
+    2.WTI has decided that each new product will be named after an employee  but only first names  will be used,  and each name will be used  only once. Prepare  a list of unique  first names.
+    3.WTI decides that it only wants to use  the most popular names  for its toys. Count up the number of employees  who have each first name.
+    4.WTI acquires  season tickets  for the local lacrosse  team, to be shared by employees.  Create  a waiting list for this popular sport
