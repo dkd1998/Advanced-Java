@@ -1,7 +1,6 @@
 package com.assign3;
 
 public class ProcessData implements Runnable {
-    public volatile boolean keepRunning = true;
     @Override
     public void run() {
             try {
