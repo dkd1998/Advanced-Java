@@ -6,7 +6,7 @@ public class ProcessData implements Runnable {
     public void run() {
             try {
                 System.out.println("Starting to process data ");
-                Thread.sleep(5000);
+                Thread.sleep(10000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
